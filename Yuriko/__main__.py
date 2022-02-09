@@ -91,7 +91,7 @@ PM_START_TEXT = """
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
 ────────────────────────
 ƒєєℓ тнє ℓσνє🦋💘
-✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [TEᗩᗰ ᒪᑌᑎᗩ](https://telegra.ph/file/c329e8bb9b2157b963fb9.jpg)!*
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [TEAM LUNA](https://telegra.ph/file/c329e8bb9b2157b963fb9.jpg)!*
 """
 
 buttons = [
